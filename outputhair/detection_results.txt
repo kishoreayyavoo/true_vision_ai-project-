@@ -1,0 +1,2 @@
+Detected Age: 26
+Detected Gender: {'Woman': 0.0020907973521389067, 'Man': 99.99791383743286}
