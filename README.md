@@ -27,6 +27,7 @@ images:
 - OpenCV
 - NumPy
 - MTCNN
+- GRU
 
 Video:
 - CNN
